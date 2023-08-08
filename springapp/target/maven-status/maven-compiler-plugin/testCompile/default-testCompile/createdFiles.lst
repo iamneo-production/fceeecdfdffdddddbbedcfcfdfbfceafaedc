@@ -1,1 +1,4 @@
 com/examly/springapp/SpringApplicationTests.class
+com/examly/springapp/Task.class
+com/examly/springapp/TaskRepository.class
+com/examly/springapp/TaskController.class
